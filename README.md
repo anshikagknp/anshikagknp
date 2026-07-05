@@ -59,7 +59,7 @@
 
 ### <img src="icon-stats.svg" width="25"/> Github at a glance
 <div align="center">
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anshikagknp&theme=dark&stats=true" width="80%" />
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anshikagknp&theme=dark&stats=true" width="100%" />
 </div>
 
 ---
