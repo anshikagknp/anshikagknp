@@ -1,5 +1,5 @@
-<div>
-<h2 align="left">Hi, Anshika here 🌻 </h2>
+<div align="center">
+<h2>Hi, Anshika here 🌻 </h2>
 <img src="./banner.svg" alt="Anshika Gupta" width="100%" />
 </div>
 
@@ -14,12 +14,6 @@
 - 🧠 a "polymath in progress" — quietly convinced that every idea connects if you look closely enough
 - ✍️ an overthinker who journals her way through most decisions, usually off-screen and away from a keyboard
 - 📖 collects ideas the way some people collect stamps — Substack essays, half-finished books, whatever's on my mind that week
-
----
-
-### <img src="icon-stats.svg" width="25"/> Github at a glance
-
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anshikagknp&theme=dark&stats=true" width="100%"/>
 
 ---
 
@@ -60,6 +54,13 @@
 > 📊 **[gender-sensitization-survey-analysis](https://github.com/anshikagknp/gender-sensitization-survey-analysis)** <br/>
 > An end-to-end analytics pipeline — data cleaning, EDA, and statistical analysis with published visualizations, built from an original 100-participant survey on youth gender sensitization awareness.
 </br>
+
+---
+
+### <img src="icon-stats.svg" width="25"/> Github at a glance
+<div align="center">
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anshikagknp&theme=dark&stats=true" width="80%" />
+</div>
 
 ---
 
