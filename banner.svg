@@ -1,41 +1,51 @@
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#151b23"/>
+      <stop offset="100%" stop-color="#161d2b"/>
     </linearGradient>
-
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="55%" stop-color="#e8ecf7"/>
-      <stop offset="100%" stop-color="#9fb4ff"/>
+    <linearGradient id="titlebar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a2233"/>
+      <stop offset="100%" stop-color="#1f2937"/>
     </linearGradient>
-
-    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
-      <stop offset="0%" stop-color="#3b6fff" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#3b6fff" stop-opacity="0"/>
+    <radialGradient id="glow" cx="85%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
     </radialGradient>
-
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="1.2" cy="1.2" r="1.2" fill="#ffffff" fill-opacity="0.045"/>
-    </pattern>
-
     <style>
-      .name {
-        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-        font-weight: 700;
-        font-size: 48px;
-        letter-spacing: 10px;
-        fill: url(#nameGrad);
-      }
+      .mono { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; }
+      .kw   { fill: #ff7b9c; }
+      .fn   { fill: #82aaff; }
+      .prop { fill: #79b8ff; }
+      .str  { fill: #a5e844; }
+      .cm   { fill: #6b7280; }
+      .punc { fill: #c9d1d9; }
+      .tab  { fill: #e6edf3; font-family: 'JetBrains Mono',monospace; font-size: 13px; }
     </style>
   </defs>
 
-  <rect width="900" height="180" fill="url(#bg)"/>
-  <rect width="900" height="180" fill="url(#dots)"/>
-  <rect width="900" height="180" fill="url(#glow)"/>
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="14" fill="url(#glow)"/>
 
-  <text x="450" y="105" text-anchor="middle" class="name">ANSHIKA GUPTA</text>
+  <!-- title bar -->
+  <path d="M0,14 A14,14 0 0 1 14,0 H886 A14,14 0 0 1 900,14 V44 H0 Z" fill="url(#titlebar)"/>
+  <circle cx="28" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="68" cy="22" r="6" fill="#28c840"/>
+  <text x="450" y="27" text-anchor="middle" class="tab">anshika.js</text>
 
-  <rect x="0" y="0" width="900" height="180" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+  <rect x="0" y="44" width="900" height="1" fill="#ffffff" fill-opacity="0.06"/>
+
+  <!-- code body -->
+  <g class="mono" font-size="21">
+    <text x="36"  y="88"><tspan class="kw">const</tspan><tspan class="punc"> developer </tspan><tspan class="punc">= {</tspan></text>
+
+    <text x="64" y="122"><tspan class="prop">name</tspan><tspan class="punc">: </tspan><tspan class="str">"Anshika Gupta"</tspan><tspan class="punc">,</tspan></text>
+
+    <text x="64" y="156"><tspan class="prop">focus</tspan><tspan class="punc">: [</tspan><tspan class="str">"AI/ML"</tspan><tspan class="punc">, </tspan><tspan class="str">"Full-Stack"</tspan><tspan class="punc">],</tspan></text>
+
+    <text x="64" y="190"><tspan class="prop">currentlyLearning</tspan><tspan class="punc">: </tspan><tspan class="kw">true</tspan></text>
+
+    <text x="36" y="212"><tspan class="punc">};</tspan></text>
+  </g>
 </svg>
