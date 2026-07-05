@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Anshika </h1>
-<h3 align="center">CS + PolSci | Java · Spring Boot · Python · Numpy · Pandas · SQL</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=MCA+%2727+%40+AKTU;Building+where+design+meets+AI" alt="Typing SVG" />
-</p>
+<div>
+<h2 align="left">Hi, Anshika here 🌻 </h2>
+<img src="./banner.svg" alt="Anshika Gupta" width="100%" />
+</div>
 
 ---
 
