@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anshika</h1>
+<h1 align="center">Hi, I'm Anshika </h1>
 <h3 align="center">CS + PolSci | Java · Spring Boot · Python · Numpy · Pandas · SQL</h3>
 
 <p align="center">
@@ -21,12 +21,7 @@
 
 ### <img src="icon-stats.svg" width="25"/> Github at a glance
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikagknp&theme=transparent&background=00000000&ring=6366F1&fire=10B981&currStreakLabel=6366F1&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anshikagknp&layout=compact&theme=transparent&bg_color=00000000&title_color=6366F1&text_color=94A3B8&hide_border=true&border_radius=12&langs_count=8" width="32%" />
-
-</div>
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=anshikagknp&theme=dark&stats=true" width="100%"/>
 
 ---
 
