@@ -9,7 +9,7 @@
 
 </div>
 
-###  A little about me
+### <img src="icon-about.svg" width="25"/> A little about me
 
 - 🎓 Currently pursuing **MCA** at **AKTU** (Dr. A.P.J. Abdul Kalam Technical University)
 - 💻 Currently deepening my skills in **Java, Spring Boot, and full-stack development**, while exploring Python for data/ML
@@ -19,7 +19,7 @@
 
 ---
 
-### Github at a glance
+### <img src="icon-stats.svg" width="25"/> Github at a glance
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Tech Arsenal
+### <img src="icon-tools.svg" width="25"/> Tech Arsenal
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-0B0F14?style=flat-square&logo=html5&logoColor=6366F1"/>
@@ -58,18 +58,19 @@
 
 ---
 
-### From my workshop
+### <img src="icon-projects.svg" width="25"/> From my workshop  
+<br>
 
+> 🤖 **[ann-ai-saas](https://github.com/anshikagknp/ann-ai-saas)** <br/>
+> An AI-powered SaaS platform for automating workflows.
 
-**🤖 [ann-ai-saas](https://github.com/anshikagknp/ann-ai-saas)**
-An AI-powered SaaS platform for automating workflows.
-
-**📊 [gender-sensitization-survey-analysis](https://github.com/anshikagknp/gender-sensitization-survey-analysis)**
-An end-to-end analytics pipeline — data cleaning, EDA, and statistical analysis with published visualizations, built from an original 100-participant survey on youth gender sensitization awareness.
+> 📊 **[gender-sensitization-survey-analysis](https://github.com/anshikagknp/gender-sensitization-survey-analysis)** <br/>
+> An end-to-end analytics pipeline — data cleaning, EDA, and statistical analysis with published visualizations, built from an original 100-participant survey on youth gender sensitization awareness.
+</br>
 
 ---
 
-### Find me here
+### <img src="icon-contact.svg" width="25"/> Find me here
 
 <div align="center">
 
