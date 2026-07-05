@@ -7,16 +7,19 @@
 
 ---
 
+</div>
+
 ###  A little about me
 
 - 🎓 Currently pursuing **MCA** at **AKTU** (Dr. A.P.J. Abdul Kalam Technical University)
 - 💻 Currently deepening my skills in **Java, Spring Boot, and full-stack development**, while exploring Python for data/ML
-- 🧠 I think of myself as a *"polymath in progress"* — connecting ideas across disciplines, from geopolitics and public policy to code
-- ✍️ Off-screen, you'll find me reflective journaling or reading through Substack
+- 🧠 a "polymath in progress" — quietly convinced that every idea connects if you look closely enough
+- ✍️ an overthinker who journals her way through most decisions, usually off-screen and away from a keyboard
+- 📖 collects ideas the way some people collect stamps — Substack essays, half-finished books, whatever's on my mind that week
 
 ---
 
-### Metrics
+### Github at a glance
 
 <div align="center">
 
@@ -55,7 +58,7 @@
 
 ---
 
-### Projects
+### From my workshop
 
 
 **🤖 [ann-ai-saas](https://github.com/anshikagknp/ann-ai-saas)**
@@ -66,7 +69,7 @@ An end-to-end analytics pipeline — data cleaning, EDA, and statistical analysi
 
 ---
 
-### Contact
+### Find me here
 
 <div align="center">
 
