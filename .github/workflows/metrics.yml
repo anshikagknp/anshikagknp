@@ -1,5 +1,7 @@
 name: Metrics
 on:
+  push:
+    branches: [main, master] # Forces the action to run and register on any push
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
